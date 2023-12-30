@@ -1,6 +1,7 @@
 {
     "name": "noeka/support",
     "type": "library",
+    "description": "Helper classes",
     "scripts": {
       "test": "./vendor/bin/phpunit tests"
     },
